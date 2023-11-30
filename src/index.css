@@ -1,0 +1,66 @@
+@import-normalize;
+
+:root {
+  --color-background: #fff;
+  --color-background-two: F7F7FB;
+  --color-main: #3470ff;
+  --color-main-accent: #0b44cd;
+  --color-text: #12141750;
+  --color-text-two: #121417;
+  --timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+body {
+  background-color: var(--color-background);
+  background-size: auto 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  font-family: "Manrope", "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.5;
+  font-style: normal;
+  color: var(--color-text);
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+button {
+  cursor: pointer;
+}
+* {
+  box-sizing: border-box;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
