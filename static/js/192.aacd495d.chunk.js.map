@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/192.aacd495d.chunk.js","mappings":"iJAAA,MAIA,EAJaA,KACJC,EAAAA,EAAAA,KAAA,MAAAC,SAAI,0K","sources":["pages/Cars.jsx"],"sourcesContent":["const Cars = () => {\n  return <h2>Это каталог всех доступных авто</h2>;\n};\n\nexport default Cars;\n"],"names":["Cars","_jsx","children"],"sourceRoot":""}

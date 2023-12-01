@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/291.f6b4eee6.chunk.js","mappings":"iJAAA,MAIA,EAJsBA,KACbC,EAAAA,EAAAA,KAAA,MAAAC,SAAI,2I","sources":["pages/FavoritesCars.jsx"],"sourcesContent":["const FavoritesCars = () => {\n  return <h2>Это список избранных авто</h2>;\n};\n\nexport default FavoritesCars;\n"],"names":["FavoritesCars","_jsx","children"],"sourceRoot":""}
